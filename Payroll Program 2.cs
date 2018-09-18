@@ -2,8 +2,9 @@
 
 namespace ConsoleApp4
 {
-    class Program
-    {
+    class Payroll Program
+   
+    
         static void Main(string[] args)
         {
             int hrsalary;
@@ -86,5 +87,5 @@ namespace ConsoleApp4
             }
             Console.ReadLine();
         }
-    }
+
 }
