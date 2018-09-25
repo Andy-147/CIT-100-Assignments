@@ -1,0 +1,11 @@
+C:\Source Code\CIT-100-Assignments\Read and Write to a file\Read and Write to a file\obj\Debug\netcoreapp2.1\Read and Write to a file.csprojAssemblyReference.cache
+C:\Source Code\CIT-100-Assignments\Read and Write to a file\Read and Write to a file\obj\Debug\netcoreapp2.1\Read and Write to a file.csproj.CoreCompileInputs.cache
+C:\Source Code\CIT-100-Assignments\Read and Write to a file\Read and Write to a file\obj\Debug\netcoreapp2.1\Read and Write to a file.AssemblyInfoInputs.cache
+C:\Source Code\CIT-100-Assignments\Read and Write to a file\Read and Write to a file\obj\Debug\netcoreapp2.1\Read and Write to a file.AssemblyInfo.cs
+C:\Source Code\CIT-100-Assignments\Read and Write to a file\Read and Write to a file\bin\Debug\netcoreapp2.1\Read and Write to a file.deps.json
+C:\Source Code\CIT-100-Assignments\Read and Write to a file\Read and Write to a file\bin\Debug\netcoreapp2.1\Read and Write to a file.runtimeconfig.json
+C:\Source Code\CIT-100-Assignments\Read and Write to a file\Read and Write to a file\bin\Debug\netcoreapp2.1\Read and Write to a file.runtimeconfig.dev.json
+C:\Source Code\CIT-100-Assignments\Read and Write to a file\Read and Write to a file\bin\Debug\netcoreapp2.1\Read and Write to a file.dll
+C:\Source Code\CIT-100-Assignments\Read and Write to a file\Read and Write to a file\bin\Debug\netcoreapp2.1\Read and Write to a file.pdb
+C:\Source Code\CIT-100-Assignments\Read and Write to a file\Read and Write to a file\obj\Debug\netcoreapp2.1\Read and Write to a file.dll
+C:\Source Code\CIT-100-Assignments\Read and Write to a file\Read and Write to a file\obj\Debug\netcoreapp2.1\Read and Write to a file.pdb
