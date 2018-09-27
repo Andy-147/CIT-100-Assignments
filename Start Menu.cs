@@ -51,7 +51,7 @@ namespace Playbook_Program_B
             {
                 userinputA = "4";
             }
-            else if (userinputA == "Exit" || userinputA == "exit" || userinputA == "")
+            else if (userinputA == "Exit" || userinputA == "exit" || userinputA == "leave")
             {
                 userinputA = "5";
             }
