@@ -131,14 +131,26 @@ namespace Playbook_Program_B
         public void Definitions()
         {
             Console.Clear();
+            string uiTerms;
+
             Console.WriteLine("");
             Console.WriteLine("");
-            Console.WriteLine("Here are the definitions.");
+            Console.WriteLine(" Please enter the term you would like to search: ");
+            uiTerms = Console.ReadLine();
             Console.WriteLine("");
+
+            if (uiTerms == "fullback")
+            {
+                uiTerms = "defender";
+            }
+            Console.WriteLine("");
+            Console.WriteLine(uiTerms);
+            Console.WriteLine("");
+
+
+
+
             Console.ReadLine();
-
-
-
             Console.Clear();
         }
 
