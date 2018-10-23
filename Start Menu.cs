@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Playbook_Program_B
 {
@@ -131,8 +132,14 @@ namespace Playbook_Program_B
         public void Definitions()
         {
             Console.Clear();
-            string uiTerms;
+            if (!System.IO.File.Exists(@"C:\Users\austin-52511\Writing\terms.txt"))
+            {
 
+                System.IO.File.Create(@"C:\Users\austin-52511\Writing\terms.txt");
+            }
+      
+            string uiTerms;
+            
             Console.WriteLine("");
             Console.WriteLine("");
             Console.WriteLine(" Please enter the term you would like to search: ");
@@ -143,6 +150,29 @@ namespace Playbook_Program_B
             {
                 uiTerms = "defender";
             }
+            
+            
+            // Displays Term Definitions
+            switch (uiTerms)
+            {
+                case ("defender"):
+        
+                break;
+
+
+
+
+
+
+            }
+            
+
+           
+
+
+
+
+
             Console.WriteLine("");
             Console.WriteLine(uiTerms);
             Console.WriteLine("");
