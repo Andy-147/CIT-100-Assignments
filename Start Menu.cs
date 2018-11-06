@@ -146,12 +146,23 @@ namespace Playbook_Program_B
             uiTerms = Console.ReadLine();
             Console.WriteLine("");
 
-            if (uiTerms == "fullback")
+            if (uiTerms == "fullback" || uiTerms == "backs")
             {
                 uiTerms = "defender";
+                goto DefinitionAccess;
+            }
+            else if (uiTerms == "striker" || uiTerms == "Striker")
+            {
+                uiTerms = "forward";
+                goto DefinitionAccess;
+            }
+            else if (uiTerms == "keeper" || uiTerms == "goalie")
+            {
+                uiTerms = "goalkeeper";
+                goto DefinitionAccess;
             }
             
-            
+            DefinitionAccess:
             // Displays Term Definitions
             switch (uiTerms)
             {
