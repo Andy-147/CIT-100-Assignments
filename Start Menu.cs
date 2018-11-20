@@ -139,7 +139,7 @@ namespace Playbook_Program_B
             }
       
             string uiTerms;
-            
+            string line;
             Console.WriteLine("");
             Console.WriteLine("");
             Console.WriteLine(" Please enter the term you would like to search: ");
@@ -167,8 +167,11 @@ namespace Playbook_Program_B
             switch (uiTerms)
             {
                 case ("defender"):
-        
-                break;
+                    using (StreamReader sr = new StreamReader(@"C:\Users\austin-52511\Writing\terms.txt"))
+                        line = sr.ReadLine;
+
+
+                        break;
 
 
 
